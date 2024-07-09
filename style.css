@@ -1,0 +1,209 @@
+body{
+    background-color: white;
+    background-image: url(./Facebook\ –\ log\ in\ or\ sign\ up\ and\ 7\ more\ pages\ -\ Personal\ -\ Microsoft\ Edge\ 08-07-2024\ 11_05_55\ PM.png);
+    background-repeat: no-repeat;
+    background-size:95%;
+}
+#gh{
+    border: px solid black;
+    background-color:  #fff;
+    box-shadow: 5px 5px 5px rgb(139, 138, 138);
+    height: 530px;
+    width: 420px;
+    margin-left: 500px;
+    margin-top: 130px;
+    padding-left: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    border-radius: 9px;
+    
+
+    
+
+}
+#gh{
+    box-shadow: rgba(white, white, white, 0.1);
+}
+#p{
+    padding-top: 10px;
+
+}
+#z{
+    padding-top: 3px;
+}
+#b{
+    margin-left: 390px;
+    margin-top: -70px;
+}
+#u{
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: -20px;
+    font-size: 80%;
+    font-weight: lighter;
+    color: rgb(140, 140, 140);
+}
+#pw{
+    margin-top: 10px;
+    border: 1px solid black;
+    height: 25px;
+    width: 400px;
+    border-radius: 3px;
+    
+}
+#buu{
+    margin-left: px;
+    background-color: rgb(66, 192, 52);
+    margin-top: 39px;
+    box-shadow: 5px 5px 5px rgb(255, 255, 255);
+}
+#fn{
+    border: 1px solid black;
+    height: 25px;
+    width: 195px;
+    border-radius: 3px;
+    margin-top: 10px;
+    
+}
+#sn{
+    
+
+    border: 1px solid black;
+    height: 25px;
+    width: 195px;
+    border-radius: 3px;
+
+}
+#mb{
+    
+    border: 1px solid black;
+    height: 25px;
+    width: 400px;
+    border-radius: 3px;
+    margin-top: 9px;
+
+}
+
+
+#buu{
+    
+    height: 49px;
+    width: 200px;
+    border-radius: 5px;
+    color: white;
+    font-size: 130%;
+    font-weight: 550;
+   
+
+}
+
+
+#male{
+    margin-top: 29px;
+    
+    border: 1px solid black;
+    height: 25px;
+    width: 122px;
+    border-radius: 3px;
+    margin-left: -53px;
+    padding-left: 3px;
+    justify-content: space-around;
+}
+#female{
+    margin-top: 29px;
+    
+    border: 1px solid black;
+    height: 25px;
+    width: 122px;
+    border-radius: 3px;
+    margin-left: 3px;
+    padding-left: 10px;
+}
+#Cu{
+    margin-top: 29px;
+    
+    border: 1px solid black;
+    height: 25px;
+    width: 122px;
+    border-radius: 3px;
+    margin-left: 3px;
+    padding-left: 10px;
+}
+#w{
+    
+    display:flex;
+    margin-top: 9px;
+}
+
+
+   
+    
+
+p{
+    margin-top: 19px;
+    font-size: 74%;
+}
+#r{
+    color:  rgb(3, 148, 252);
+}
+#r:hover{
+    text-decoration: underline;
+
+}
+#rtr{
+    background-size: 1%;
+}
+#tyty{
+    color: black;
+    margin-top: 500px;
+}
+
+#dob{
+    margin-top: -40px;
+    
+}
+#ug{
+    padding-top: 9px;
+}
+#dy{
+    margin-top: 29px;
+    
+    border: 1px solid black;
+    height: 29px;
+    width: 126px;
+    border-radius: 3px;
+    margin-left: 5px;
+    justify-content: space-around;
+}
+#dd{
+    margin-top: 29px;
+    
+    border: 1px solid black;
+    height: 29px;
+    width: 126px;
+    border-radius: 3px;
+    margin-left: px;
+}
+#dm{
+    margin-top: 29px;
+    
+    border: 1px solid black;
+    height: 29px;
+    width: 126px;
+    border-radius: 3px;
+    margin-left: 10px;
+}
+#f{
+    margin-left: 100px;
+    margin-top: -15px;
+}
+#m{
+    margin-left: 4px;
+    margin-top: -15px;
+
+}
+#c{
+    margin-left: 53px;
+    margin-top: -15px;
+
+}
+
+
